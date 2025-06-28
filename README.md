@@ -31,7 +31,7 @@ Trained in high-stakes planning, logistics, and leadership under pressure
 
 ---
 
-📎 📎 [Download My Resume (PDF)](https://github.com/lonnmejiano/lonnmejiano-data-bia/raw/main/resume_lonn_mejiano.pdf)
+📎 📎 [Download My Resume (PDF)](https://github.com/lonnmejiano/lonnmejiano-data-bia/main/resume_lonn_mejiano.pdf)
 🔗 Or request a copy via email: **lonnmejiano@gmail.com**
 
 ---
