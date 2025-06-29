@@ -1,4 +1,4 @@
-## 📄 Hello my name is Lonn Mejiano & here I present my Resume
+# 📄 'Welcome to My Resume Page'
 
 I bring over 10 years of leadership and operational experience in aviation, combined with technical expertise in business intelligence, data analytics, and visual storytelling.
 
