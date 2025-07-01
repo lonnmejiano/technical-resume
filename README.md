@@ -1,4 +1,7 @@
-# 📄 'Welcome to My Resume Page'
+# WELCOME TO MY RESUME PAGE
+
+
+
 
 I bring over 10 years of leadership and operational experience in aviation, combined with technical expertise in business intelligence, data analytics, and visual storytelling.
 
