@@ -62,7 +62,7 @@ I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade o
   - Instituted weekly KPI dashboards—drove a 15% reduction in return-shipping costs in two months  
 
 ### SuperStore Returns Dashboard
-🔗 [View Code & Dashboard](https://github.com/lonnmejiano/superstore-return-dashboard)  
+🔗 [View Code & Dashboard](https://github.com/lonnmejiano/superstore-returns-dashboard)  
 - **Purpose:** Compare return rates versus sales trends.  
 - **Tech Stack:** SQL, Tableau  
 - **Highlights:**  
