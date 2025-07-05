@@ -36,7 +36,7 @@ I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade o
 ## Featured Projects
 
 ### Customer Retention Cohort Analysis
-🔗 [View Code & Dashboard](https://github.com/lonnmejiano/lonnmejiano-data-bia/cohort-analysis)  
+🔗 [View Code & Dashboard](https://github.com/lonnmejiano//cohort-analysis)  
 - **Purpose:** Identify high churn-risk customers and improve retention.  
 - **Tech Stack:** SQL stored procedures, Google Sheets, Power BI  
 - **Highlights:**  
@@ -45,7 +45,7 @@ I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade o
   - Developed interactive Power BI dashboard—achieved an 8% retention lift in one quarter  
 
 ### NYC Airbnb Investment Model
-🔗 [View Code & Report](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/NYC-Airbnb-Investment-Model)  
+🔗 [View Code & Report](https://github.com/lonnmejiano/)  
 - **Purpose:** Analyze ROI across New York City neighborhoods.  
 - **Tech Stack:** Python, Excel, Tableau  
 - **Highlights:**  
