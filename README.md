@@ -36,7 +36,7 @@ I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade o
 ## Featured Projects
 
 ### Customer Retention Cohort Analysis
-🔗 [View Code & Dashboard](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/Customer-Retention-Cohorts)  
+🔗 [View Code & Dashboard](https://github.com/lonnmejiano/lonnmejiano-data-bia/cohort-analysis)  
 - **Purpose:** Identify high churn-risk customers and improve retention.  
 - **Tech Stack:** SQL stored procedures, Google Sheets, Power BI  
 - **Highlights:**  
