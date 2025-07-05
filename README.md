@@ -45,7 +45,7 @@ I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade o
   - Developed interactive Power BI dashboard—achieved an 8% retention lift in one quarter  
 
 ### NYC Airbnb Investment Model
-🔗 [View Code & Report](https://github.com/lonnmejiano/)  
+🔗 [View Code & Report](https://github.com/lonnmejiano/airbnb-manhattan)  
 - **Purpose:** Analyze ROI across New York City neighborhoods.  
 - **Tech Stack:** Python, Excel, Tableau  
 - **Highlights:**  
