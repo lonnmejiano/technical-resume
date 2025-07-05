@@ -54,7 +54,7 @@ I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade o
   - Built automated Tableau dashboard for ongoing investment tracking  
 
 ### SuperStore Profit & Return Analysis
-🔗 [View Code & Dashboards](https://github.com/user-attachments/assets/3b902ed4-8ea1-4ecb-af36-a2b8b0c9b13f)  
+🔗 [View Code & Dashboards](https://github.com/lonnmejiano/superstore-profit-loss-analysis)  
 - **Purpose:** Uncover regional return-rate hotspots and reduce shipping costs.  
 - **Tech Stack:** SQL, Tableau  
 - **Highlights:**  
