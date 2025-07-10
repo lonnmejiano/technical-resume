@@ -75,6 +75,5 @@ I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade o
 ## Contact & Connect
 - 📧 **Email:** lonnmejiano@gmail.com  
 - 🔗 **LinkedIn:** www.linkedin.com/in/lonnmejiano  
-- 🐙 **GitHub:** https://github.com/lonnmejiano/lonnmejiano.github.io
 
 Feel free to explore my repositories, reach out with questions, or connect for new BI opportunities!  
