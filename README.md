@@ -50,7 +50,7 @@ Business Intelligence Analyst with over 10 years of experience in aviation, data
 * **Compliance Monitoring:** Reduced safety violations by 15% through improved compliance training and data-informed SOP enhancements.
 * **Performance Analysis:** Ensured adherence to FAA, TSA, and OSHA guidelines and optimized scheduling to enhance turnaround KPIs.
 
-**American Airlines** – Lead Crew Chief, Spokane, WA | Oct 2020 – Feb 2024
+**American Airlines** – Lead Crew Chief, Spokane, WA | Oct 2023 – Feb 2024
 * **Operational Efficiency:** Directed baggage handling and ramp activities to meet on-time performance metrics.
 * **Turnaround Reduction:** Reduced aircraft turnaround time by 10% through real-time workflow adjustments.
 * **Regulatory Documentation:** Oversaw crew safety documentation and maintained compliance data for audits.
