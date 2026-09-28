@@ -3,7 +3,7 @@
 # Lonn M. Mejiano
 **Business Intelligence Analyst | Aviation Operations Specialist | Photographer**
 
-Kennewick, WA | (509) 438-1235 | lonnmejiano@gmail.com | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+Kennewick, WA | lonnmejiano@gmail.com | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
 
 ---
 
